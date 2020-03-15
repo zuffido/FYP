@@ -1,0 +1,31 @@
+.gap{
+  margin: 2px;
+}
+.meriClass{
+  color: grey;
+  margin-right: 90px;
+  float: inherit;
+
+}
+
+.meraText{
+  
+  color: grey;
+  margin-right: 90px;
+  float: inherit;
+}
+.meraText:hover{
+  color: red;
+  text-decoration: none;
+}
+.form-group {
+  width: 100%;
+}
+
+.input-group {
+  width: 90% !important;
+}
+
+.form-control {
+  width: 90% !important;
+}
